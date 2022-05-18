@@ -4,7 +4,7 @@ public class MyFirstProgram {
 	
 	public static void main(String[] args){
 		//Задание: расстояние между точками
-		Point p = new Point(4.2,2,6,4);
+		Point p = new Point(1,3,1,4);
 		System.out.println("расстояние междуточками =" + p.distance());
 
 
