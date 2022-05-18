@@ -19,3 +19,6 @@ sandbox/build/distributions/sandbox.tar
 sandbox/build/distributions/sandbox.zip
 sandbox/build/scripts/sandbox
 sandbox/build/classes/java/main/ru/stqa/parttwo/sandbox/MyFirstProgram.class
+sandbox/build/classes/java/main/ru/stqa/parttwo/sandbox/Point.class
+sandbox/build/classes/java/main/ru/stqa/parttwo/sandbox/Rectangle.class
+sandbox/build/classes/java/main/ru/stqa/parttwo/sandbox/Square.class
